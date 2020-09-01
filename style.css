@@ -93,6 +93,7 @@ h1 {
  }
  .play input{
   height: 70px;
+  width: 80vw;
   font-size: 30px;
   display: block;
   margin: 20px auto;
@@ -101,6 +102,7 @@ h1 {
  .play button {
   height: 74px;
   font-size: 30px;
+  width: 80vw;
   display: block;
   text-align: center;
   margin: 0 auto;
